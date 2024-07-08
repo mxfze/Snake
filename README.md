@@ -1,4 +1,4 @@
-# >🐍 Snake Game made with Python turtle 🐢
+# 🐍 Snake Game created with python turtle 🐢
 
 run the main.py
 
